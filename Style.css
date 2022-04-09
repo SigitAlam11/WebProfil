@@ -1,0 +1,96 @@
+header {
+  font-size: 34px;
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 10px 15px;
+  text-align: center;
+  margin: 0 20px;
+}
+
+h1{
+  font-size: 25px;
+  background-color: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 25px 15px;
+  text-align: center;
+}
+
+img{
+  background: #2db34a;
+  border-radius: 20px;
+  color: #fff;
+  padding: 25px 150px;
+  text-align: center; 
+}
+
+audio{
+  background: #2db34a;
+  border-radius: 20px;
+  padding: 25px 80px;
+  width: 640px; 
+}
+
+video{
+  background: #2db34a;
+  border-radius: 20px;
+  padding: 25px 80px;
+  width: 640px;
+}
+
+h2{
+  font-size: 30px;
+  font-weight: bold;
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 40px 40px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+li {
+  font-size: 12pt;
+  background: #2db34a;
+  color: #fff;
+  font:  "Source Code Pro";
+  text-align: left;
+  border-radius: 20px;
+  text-justify: 1px;
+  margin-top: 10px;
+}
+.default {
+  background: none;
+  color: #2db34a;
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  border-radius: 5px;
+  clear: both;  
+}
+
+article {
+  float: left;
+  width: 67%;
+}
+aside {
+  float: right;
+  width: 33%;
+}
+footer {
+  margin-bottom: 0;
+}
+
